@@ -1,4 +1,3 @@
-// http://websamuraj.pl/examples/js/projekt11/
 const startPauze = document.querySelector('.main');
 const reset = document.querySelector('.reset');
 const contentDiv = document.querySelector('.time div');
